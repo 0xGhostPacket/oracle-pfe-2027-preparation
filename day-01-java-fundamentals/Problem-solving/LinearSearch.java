@@ -16,7 +16,7 @@ public class Main {
     {
         int[] numbers = {1,23,44,56,7,8,9,1};
 
-        System.out.println(linearSearch(numbers,9));
+        System.out.println(linearSearch(numbers,333));
 
     }
 }
